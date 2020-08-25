@@ -1,0 +1,97 @@
+
+Turn 423
+================================================================
+warning: owned entities 3, 10 collided on cell (35, 24) as the result of moves on this turn
+At command 19 of 19:
+    17   m 17 s
+    18   m 27 w
+>>> 19   m 3 n
+
+
+Turn 426
+================================================================
+warning: owned entities 15, 9, 1 collided on cell (35, 24) as the result of moves on this turn
+At command 4 of 17:
+    2   m 37 o
+    3   m 29 o
+>>> 4   m 15 n
+    5   m 5 n
+    6   m 1 o
+
+Other commands that placed an entity on this cell:
+    14   m 26 n
+    15   m 24 s
+>>> 16   m 9 s
+    17   m 32 s
+
+
+Turn 429
+================================================================
+warning: owned entities 5, 32, 26 collided on cell (35, 24) as the result of moves on this turn
+At command 6 of 14:
+    4   m 30 o
+    5   m 19 n
+>>> 6   m 5 w
+    7   m 37 n
+    8   m 27 n
+
+Other commands that placed an entity on this cell:
+    12   m 35 n
+    13   m 24 s
+>>> 14   m 32 s
+
+
+Turn 433
+================================================================
+warning: owned entities 17, 16 collided on cell (35, 24) as the result of moves on this turn
+At command 2 of 11:
+    1   m 37 n
+>>> 2   m 17 s
+    3   m 19 o
+    4   m 30 n
+
+
+Turn 434
+================================================================
+warning: owned entities 27, 37 collided on cell (35, 24) as the result of moves on this turn
+At command 2 of 9:
+    1   m 19 n
+>>> 2   m 27 w
+    3   m 29 o
+    4   m 12 n
+
+Other commands that placed an entity on this cell:
+    4   m 12 n
+    5   m 35 n
+>>> 6   m 37 n
+    7   m 30 n
+    8   m 7 o
+
+
+Turn 436
+================================================================
+warning: owned entities 19, 24 collided on cell (35, 24) as the result of moves on this turn
+At command 6 of 7:
+    4   m 29 n
+    5   m 30 o
+>>> 6   m 19 n
+    7   m 24 o
+
+
+Turn 438
+================================================================
+warning: owned entities 29, 35 collided on cell (35, 24) as the result of moves on this turn
+At command 5 of 5:
+    3   m 35 o
+    4   m 7 n
+>>> 5   m 29 n
+
+
+Turn 444
+================================================================
+warning: owned entities 12, 7 collided on cell (35, 24) as the result of moves on this turn
+At command 2 of 3:
+    1   m 7 o
+>>> 2   m 12 n
+    3   m 30 o
+
